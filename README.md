@@ -1,28 +1,33 @@
-# Genís Verge Martín
+# Hi, I'm Genís 👋
 
-Computer Engineering student at FIB-UPC, interested in building clear,
-reproducible systems and learning through implementation.
+Computer Engineering student at FIB-UPC, based in Barcelona.
 
-## Areas of interest
+I like projects where an algorithm becomes something I can run, inspect and
+improve. I am especially interested in AI agents and their security and
+reliability, as well as backend systems, cybersecurity and software
+engineering.
 
-Artificial Intelligence · Software Engineering · Algorithms and Data
-Structures · Autonomous Agents · Computer Vision · Compilers and
-Interpreters · Blockchain · Web3 · Intelligent Systems
+## 🔎 Currently looking for
 
-## Main technologies
+Curricular internship opportunities in Barcelona, nearby areas or remotely.
 
-- **Languages:** C++, Java, Python, MATLAB and Forth
-- **Engineering:** Git, GitHub Actions, Gradle, GNU Make and Linux/WSL
-- **AI:** search, clustering, reinforcement learning, autonomous agents,
-  knowledge representation and classical computer vision
+## 🚀 Featured projects
 
-## Featured projects
+| Project | What I worked on | Technologies |
+| --- | --- | --- |
+| [Prefix-Search Structures](https://github.com/Gen765/efficient-prefix-search-structures) | Four trie variants comparing path compression, maps and hash maps | C++17 |
+| [Forth Interpreter](https://github.com/Gen765/forth-interpreter-antlr) | Grammar, visitor and execution model for a stack language | Python, ANTLR |
+| [Survey Clustering Platform](https://github.com/Gen765/survey-clustering-platform) | K-means, K-means++, K-medoids and domain components in a five-person project | Java, Swing |
+| [Autonomous Game Agent](https://github.com/Gen765/harry-potter-autonomous-game-agent) | BFS, heuristics and rule-based decisions for a strategy-game player | C++17, Python |
+| [License Plate Detection & OCR](https://github.com/Gen765/license-plate-detection-ocr) | Plate-candidate classification in a classical computer-vision pipeline | MATLAB |
 
-- [Efficient Prefix Search Structures](https://github.com/Gen765/efficient-prefix-search-structures) — four C++17 trie and radix-tree variants with tests, benchmarks and sanitizers.
-- [Forth Interpreter with ANTLR](https://github.com/Gen765/forth-interpreter-antlr) — a stack-language interpreter built from an ANTLR grammar and Python visitor.
-- [Survey Clustering Platform](https://github.com/Gen765/survey-clustering-platform) — a Java desktop application for surveys and K-means/K-medoids analysis.
-- [Autonomous Game Agent](https://github.com/Gen765/harry-potter-autonomous-game-agent) — a C++ strategy agent with reproducible tournament simulations.
-- [Licence Plate Detection & OCR](https://github.com/Gen765/license-plate-detection-ocr) — a MATLAB image-processing and HOG-classification pipeline.
+## 🧭 What interests me
 
-I value readable code, honest evidence, automated checks and projects that can
-be reproduced long after their first implementation.
+- AI agents, particularly their security and reliability.
+- Backend and distributed systems.
+- Cybersecurity, algorithms and software engineering.
+
+## 🛠️ Technologies
+
+C++ · Java · Python · MATLAB · Git · GitHub Actions · Gradle · GNU Make ·
+ANTLR · Linux/WSL
